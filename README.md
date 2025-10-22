@@ -3,11 +3,11 @@
 
 Email Me 👉 ✉️ **pramodkumar3615@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** AI-powered healthcare platforms and automated clinical documentation systems.
-- 🌱 **I’m currently learning:** Advanced NLP & Speech-to-Text Models (Whisper, Transformers)
+- 🔭 **I’m currently working on:** AI-powered healthcare platforms & Real-Time Collaborative Study Platform
+- 🌱 **I’m currently learning:** Advanced NLP & real-time system scaling
 - 👯 **I’m looking to collaborate on:** AI-driven healthcare, sustainability, or social-impact projects.
 - 🤔 **I’m looking for help with:** Scaling AI/ML models for real-time healthcare applications.
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 💬 **Ask me about:** Collaboration, Machine learning, AI applications, Full-stack development
 - 📫 **How to reach me:** pramodkumar3615@gmail.com
 - ⚡ **Fun fact:** I believe in creating tech that makes a real-world impact 🌍💡
 
